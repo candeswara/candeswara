@@ -1,40 +1,27 @@
-<div align="center">
-<img src="https://cdn.discordapp.com/attachments/1214788557210656778/1225390877690691635/mai-sakurajima-anime.gif?ex=6620f52f&is=660e802f&hm=fc2a2f74c4799bbc68a2cb748412f08555e264d9c0fa9aea7032a8fd64665a10&" align="center" style="width: 100%" />
-</div>  
-  
+# Hi there, I'm Candes! 👋
 
-### <div align="center">Hey, I'm Candes 👋</div>  
-  
+Seorang mahasiswa **Sistem Komputer** yang antusias dengan ekosistem **IoT**, **Web Development**, dan **Self-Hosting**. Saya fokus pada pengembangan solusi digital yang efisien, mulai dari integrasi hardware hingga antarmuka web yang modern.
 
-- 🔭 I'm currently studying at STIKOM Bali  
-  
+---
 
-- 🌱 I’m currently learning Docker  
-  
+### 🚀 Sedang Dikerjakan
 
-<br/>  
+*   🏠 **Smart Home Automation:** Mengembangkan sistem otomasi rumah pintar yang mengintegrasikan prediksi cuaca berbasis AI dan kontrol suara melalui Google Assistant.
+*   🗳️ **Website PEMIRA ITB STIKOM Bali:** Membangun platform digital untuk manajemen pendaftaran dan pelaksanaan pemilihan raya mahasiswa.
+*   🏛️ **Web Organisasi DPM ITB STIKOM Bali:** Mengembangkan situs resmi Dewan Perwakilan Mahasiswa menggunakan framework modern untuk transparansi dan informasi organisasi.
 
+### 🛠️ Tech Stack & Tools
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/candeswara" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/candes28" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+*   **Frontend:** Astro, Vue.js (Vite/Nuxt 3), React, Tailwind CSS.
+*   **IoT & Hardware:** Arduino, ESP32, Modbus, MQTT, Sensor Integration.
+*   **Infrastructure:** Docker, Firebase.
 
-<br/>  
+### 📊 GitHub Stats
+![Candes's GitHub stats](https://github-readme-stats.vercel.app/api?username=candeswara&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=candeswara&layout=compact&theme=tokyonight)
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=candeswara&&style=flat-square" align="center" />
-</div>  
-  
+---
 
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=candeswara&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+### 📫 Hubungi Saya
+*   **LinkedIn:** [linkedin.com/in/nyoman-aditya-candeswara-arta](https://www.linkedin.com/in/nyoman-aditya-candeswara-arta/)
+*   **Email:** [me@1nva.de](mailto:me@1nva.de)
